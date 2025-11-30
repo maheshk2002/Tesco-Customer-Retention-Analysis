@@ -14,13 +14,13 @@ This project analyses customer churn and retention strategies for Tesco. Using P
 !(Screenshots/Dashboard1.png)
 
 ### Loyalty & Promotion Impact
-!(Screenshots/Dashboard2.png)
+!(Screenshots/Dashboard 2.png)
 
 ### Store and Region Insights
-!(Screenshots/Dashboard3.png)
+!(Screenshots/Dashboard 3.png)
 
 ### Customer Segmentation & CLV
-!(Screenshots/Dashboard4.png)
+!(Screenshots/Dashboard 4.png)
 
 ## ✅ Top 3 Recommendations
 
